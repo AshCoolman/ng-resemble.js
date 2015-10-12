@@ -1,0 +1,29 @@
+{
+  "name": "ng-resemble",
+  "version": "1.0.0",
+  "description": "Angular 1.x components for working with resemblejs, a HTML5 image analysis library ",
+  "main": "dist/ng-resemble.min.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AshCoolman/ng-resemble.js.git"
+  },
+  "keywords": [
+    "[\"resemblejs\"",
+    "\"angular\"",
+    "\"image",
+    "comparison\"]"
+  ],
+  "author": "Ashley Coleman <writetofish@gmail.com> (http://ashcoolman.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshCoolman/ng-resemble.js/issues"
+  },
+  "homepage": "https://github.com/AshCoolman/ng-resemble.js#readme",
+  "devDependencies": {
+    "coffee": "^1.2.0",
+    "resemblejs": "^1.3.1"
+  }
+}
